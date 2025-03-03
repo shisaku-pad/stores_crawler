@@ -1,0 +1,438 @@
+{
+    "errors": [],
+    "messages": [],
+    "list": [
+        {
+            "topics_id": 3932,
+            "hacomono_studio_id": 1411,
+            "grand_opening_at": "2023-12-17T12:00:00+09:00",
+            "name": "盛岡茶畑",
+            "name_suffix": "",
+            "address": "岩手県 盛岡市 茶畑2-10-8　ササエイビル　1F",
+            "access": "岩手県交通バス / 茶畑　下車　徒歩3分",
+            "coords": {
+                "gmap_x": "141.1660506",
+                "gmap_y": "39.69244773",
+                "gmap_type": "",
+                "gmap_zoom": "",
+                "gmap_place_id": ""
+            },
+            "services": [
+                {
+                    "module_id": 458,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 460,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 461,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 463,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 465,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 466,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 469,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 470,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 471,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 472,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 474,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 475,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 476,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 452201,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                }
+            ]
+        },
+        {
+            "topics_id": 3931,
+            "hacomono_studio_id": 1410,
+            "grand_opening_at": "2024-01-16T12:00:00+09:00",
+            "name": "盛岡月が丘",
+            "name_suffix": "",
+            "address": "岩手県 盛岡市 月が丘1-26-41　2F",
+            "access": "岩手県交通バス / 三愛病院前　下車　徒歩1分",
+            "coords": {
+                "gmap_x": "141.1128587",
+                "gmap_y": "39.73360406",
+                "gmap_type": "",
+                "gmap_zoom": "",
+                "gmap_place_id": ""
+            },
+            "services": [
+                {
+                    "module_id": 458,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 460,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 461,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 463,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 465,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 466,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 469,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 470,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 471,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 472,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 474,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 475,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 476,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 452201,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                }
+            ]
+        },
+        {
+            "topics_id": 3912,
+            "hacomono_studio_id": 1391,
+            "grand_opening_at": "2023-12-17T12:00:00+09:00",
+            "name": "盛岡肴町",
+            "name_suffix": "",
+            "address": "岩手県 盛岡市 肴町8-12　岡喜ビル　2F",
+            "access": "岩手県交通バス / 盛岡バスセンター　下車　徒歩5分",
+            "coords": {
+                "gmap_x": "141.1539382",
+                "gmap_y": "39.69783149",
+                "gmap_type": "",
+                "gmap_zoom": "",
+                "gmap_place_id": ""
+            },
+            "services": [
+                {
+                    "module_id": 458,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 460,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 461,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 463,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 465,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 466,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 469,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 470,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 471,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 472,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 475,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 476,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 452201,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                }
+            ]
+        },
+        {
+            "topics_id": 3810,
+            "hacomono_studio_id": 1279,
+            "grand_opening_at": "2023-10-25T12:00:00+09:00",
+            "name": "盛岡フェザン",
+            "name_suffix": "",
+            "address": "岩手県 盛岡市 盛岡駅前通1-44　盛岡フェザン　フェザンテラス　1F",
+            "access": "JR東北本線 / 盛岡駅　東口　徒歩1分",
+            "coords": {
+                "gmap_x": "141.1349789",
+                "gmap_y": "39.70350685",
+                "gmap_type": "",
+                "gmap_zoom": "",
+                "gmap_place_id": ""
+            },
+            "services": [
+                {
+                    "module_id": 460,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 461,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 463,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 465,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 466,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 469,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 470,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 471,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 472,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 475,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 476,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 452201,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                }
+            ]
+        },
+        {
+            "topics_id": 3436,
+            "hacomono_studio_id": 791,
+            "grand_opening_at": "2023-07-15T12:00:00+09:00",
+            "name": "盛岡菜園",
+            "name_suffix": "",
+            "address": "岩手県盛岡市菜園1-3-6農林会館　1F",
+            "access": "JR東北本線 / 盛岡駅　東口　徒歩16分",
+            "coords": {
+                "gmap_x": "141.1491205",
+                "gmap_y": "39.70093845",
+                "gmap_type": "",
+                "gmap_zoom": "",
+                "gmap_place_id": ""
+            },
+            "services": [
+                {
+                    "module_id": 458,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 460,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 461,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 463,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 465,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 466,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 469,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 470,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 471,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 472,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 475,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 476,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                },
+                {
+                    "module_id": 452201,
+                    "module_type": "topics",
+                    "topics_group_id": 42
+                }
+            ]
+        }
+    ],
+    "pageInfo": {
+        "totalCnt": 5,
+        "perPage": 30,
+        "totalPageCnt": 1,
+        "pageNo": 1,
+        "firstIndex": 1,
+        "lastIndex": 5,
+        "path": "/rcms-api/34/studios",
+        "param": "?filter=keyword+icontains+%22%E5%B2%A9%E6%89%8B%E7%9C%8C%22&data_format=json",
+        "startPageNo": 1,
+        "endPageNo": 1
+    }
+}
