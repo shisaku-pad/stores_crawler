@@ -11,6 +11,7 @@ CSV.open(File.join(__dir__, 'chocozap_shops.csv'), 'w') do |csv|
       json = `curl "https://chocozap.g.kuroco.app/rcms-api/34/studios?filter=keyword%20icontains%20%22#{pref}%22&pageID=#{page_num}"`
       json = JSON.parse(json)
       break if !json["errors"].empty? && json["errors"][0]["message"] == "pageID is too big."
+      raise if json["list"].empty?
 
       json["list"].each do |shop|
         csv << [

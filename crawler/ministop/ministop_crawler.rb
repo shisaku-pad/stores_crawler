@@ -14,6 +14,8 @@ CSV.open(File.join(__dir__, 'ministop_stores.csv'), 'w') do |csv|
     next if json["status"] == 404
 
     shops = json["shopsData"]["shops"]
+    raise if shops.empty?
+
     shops.each do |shop|
       next if shop["selectBrand"]["selectBrand"]["selected"]["item"]["brand"]["label"] != 'ミニストップ'
 
