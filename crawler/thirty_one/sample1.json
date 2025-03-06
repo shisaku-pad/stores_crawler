@@ -1,0 +1,271 @@
+{
+    "count": {
+        "total": 1032,
+        "offset": 0,
+        "limit": 10
+    },
+    "items": [
+        {
+            "code": "0000001054",
+            "name": "サーティワンアイスクリーム　イオンモール新利府南館",
+            "phone": "022-357-0431",
+            "address_name": "宮城県宮城郡利府町新中道3-1-1",
+            "address_code": "04406",
+            "postal_code": "9810114",
+            "coord": {
+                "lon": 140.976448,
+                "lat": 38.321361
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4081",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "last_update": "2024-12-28T13:08:01+09:00"
+        },
+        {
+            "code": "0000001055",
+            "name": "サーティワンアイスクリーム　ビバモール蕨錦町",
+            "phone": "048-242-5131",
+            "address_name": "埼玉県蕨市錦町1-12-1",
+            "address_code": "11223",
+            "postal_code": "3350005",
+            "coord": {
+                "lon": 139.681398,
+                "lat": 35.818062
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4084",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "from_date": "2021-03-26T13:18:00+09:00",
+            "to_date": "2100-01-01T00:00:00+09:00",
+            "last_update": "2024-12-28T12:55:19+09:00"
+        },
+        {
+            "code": "0000001057",
+            "name": "サーティワンアイスクリーム　東京スカイツリータウン・ソラマチ店",
+            "phone": "03-6658-5731",
+            "address_name": "東京都墨田区押上1-1-2　イーストヤード１階",
+            "address_code": "13107",
+            "postal_code": "1310045",
+            "coord": {
+                "lon": 139.815628,
+                "lat": 35.70728
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4091",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "from_date": "2021-04-05T10:53:00+09:00",
+            "to_date": "2100-01-01T00:00:00+09:00",
+            "last_update": "2024-12-28T12:55:19+09:00"
+        },
+        {
+            "code": "0000001058",
+            "name": "サーティワンアイスクリーム　イオンモール川口店",
+            "phone": "048-287-3157",
+            "address_name": "埼玉県川口市安行領根岸３１８０",
+            "address_code": "11203",
+            "postal_code": "3330834",
+            "coord": {
+                "lon": 139.727656,
+                "lat": 35.834502
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4085",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "last_update": "2024-12-28T12:55:19+09:00"
+        },
+        {
+            "code": "0000001059",
+            "name": "サーティワンアイスクリーム  池袋サンシャインシティアルタ店",
+            "phone": "050-1722-1546",
+            "address_name": "東京都豊島区東池袋3-1-3　サンシャインシティワールドインポートマートビルB1",
+            "address_code": "13116",
+            "postal_code": "1706090",
+            "coord": {
+                "lon": 139.723159,
+                "lat": 35.725719
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4097",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "last_update": "2025-02-18T15:43:52+09:00"
+        },
+        {
+            "code": "0000001060",
+            "name": "サーティワンアイスクリーム　イオンモール白山店",
+            "phone": "076-272-8631",
+            "address_name": "石川県白山市横江町5001番地",
+            "address_code": "17210",
+            "postal_code": "9248777",
+            "coord": {
+                "lon": 136.584979,
+                "lat": 36.541499
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4104",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "last_update": "2025-02-05T18:12:14+09:00"
+        },
+        {
+            "code": "0000001061",
+            "name": "サーティワンアイスクリーム　ピエリ守山店",
+            "phone": "050-1722-0541",
+            "address_name": "滋賀県守山市今浜町2620-5　ピエリ守山2階フードテラス内",
+            "address_code": "25207",
+            "postal_code": "5240101",
+            "coord": {
+                "lon": 135.94733,
+                "lat": 35.119571
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4115",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "from_date": "2021-07-27T11:42:00+09:00",
+            "to_date": "2100-01-01T00:00:00+09:00",
+            "last_update": "2025-02-15T17:51:41+09:00"
+        },
+        {
+            "code": "0000001062",
+            "name": "サーティワンアイスクリーム　則武新町店",
+            "phone": "052-433-5031",
+            "address_name": "愛知県名古屋市西区則武新町3丁目1番17号",
+            "address_code": "23104",
+            "postal_code": "4510051",
+            "coord": {
+                "lon": 136.883436,
+                "lat": 35.176745
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4129",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "from_date": "2021-10-07T09:31:00+09:00",
+            "to_date": "2100-01-01T00:00:00+09:00",
+            "last_update": "2024-12-28T12:55:19+09:00"
+        },
+        {
+            "code": "0000001063",
+            "name": "サーティワンアイスクリーム　京王クラウン街笹塚店",
+            "phone": "050-1722-2961",
+            "address_name": "東京都渋谷区笹塚1-56-1８",
+            "address_code": "13113",
+            "postal_code": "1510073",
+            "coord": {
+                "lon": 139.670936,
+                "lat": 35.670935
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4124",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "from_date": "2021-10-07T09:35:00+09:00",
+            "to_date": "2100-01-01T00:00:00+09:00",
+            "last_update": "2024-12-28T12:55:19+09:00"
+        },
+        {
+            "code": "0000001064",
+            "name": "サーティワンアイスクリーム　SOCOLA南行徳店",
+            "phone": "047-711-1231",
+            "address_name": "千葉県市川市南行徳2丁目20番25号",
+            "address_code": "12203",
+            "postal_code": "2720138",
+            "coord": {
+                "lon": 139.909011,
+                "lat": 35.66526
+            },
+            "status": "normal",
+            "list_no": 0,
+            "external_code": "4125",
+            "categories": [
+                {
+                    "code": "01",
+                    "name": "アイスクリーム",
+                    "level": "large",
+                    "image_path": "//image.pkg.navitime.co.jp/citrus/336/other_image/ic_31.png",
+                    "last_update": "2021-04-01T11:00:15+09:00"
+                }
+            ],
+            "from_date": "2021-10-07T09:44:00+09:00",
+            "to_date": "2100-01-01T00:00:00+09:00",
+            "last_update": "2025-03-03T16:06:13+09:00"
+        }
+    ]
+}
