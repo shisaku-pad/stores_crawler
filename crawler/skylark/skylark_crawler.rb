@@ -39,7 +39,6 @@ CSV.open(File.join(__dir__, 'skylark_stores.csv'), 'w') do |csv|
     next if Date.parse(open_date) > today
 
     brand = shop["marker"]["ja"]["name"]
-    brand = brand == 'から好し（ガスト内店含む）' ? 'から好し' : brand
-    csv << [shop["id"], "", shop["name"].delete_prefix(brand).strip, shop["address"].delete_suffix('　'), shop["latitude"], shop["longitude"], brand, shop["extra_fields"]["削除フラグ"]]
+    csv << [shop["id"], "", shop["name"], shop["address"].delete_suffix('　'), shop["latitude"], shop["longitude"], brand, shop["extra_fields"]["削除フラグ"]]
   end
 end
